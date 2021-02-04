@@ -1,3 +1,4 @@
+//program to find the product of the given number
 #include<stdio.h>
 
 int main ()
